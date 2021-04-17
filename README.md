@@ -1,5 +1,5 @@
-https://i.imgur.com/fARZzGW.mp4
-
+https://user-images.githubusercontent.com/65331756/115106472-ad38f000-9f97-11eb-9956-d2b1ad5d5dbe.mp4
+---
 <img width="299" alt="album" src="https://user-images.githubusercontent.com/65331756/115105817-d192cd80-9f93-11eb-9987-e4c2667ef259.png">
 
 # My Favorite Band - Kirinji Intro App

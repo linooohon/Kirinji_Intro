@@ -12,4 +12,14 @@
 
 ## Using
 - Storyboard
+  - Tab Bar Controller
+  - Navigation Controller
+  - Table View Controller 
+  - View Controller
+  - Scroll view 
+  - Table View, Static Cell
+  - Image View
+  - Button
+  - Text View
+  - Label 
 

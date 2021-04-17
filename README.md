@@ -1,4 +1,4 @@
-![demo](https://github.com/linooohon/Kirinji_Intro_App/blob/master/kirinji.gif)
+<img width="100" alt="album" src="https://github.com/linooohon/Kirinji_Intro_App/blob/master/kirinji.gif">
 <img width="299" alt="album" src="https://user-images.githubusercontent.com/65331756/115105817-d192cd80-9f93-11eb-9987-e4c2667ef259.png">
 
 # My Favorite Band - Kirinji Intro App
